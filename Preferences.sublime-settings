@@ -1,41 +1,47 @@
 {
-	"always_show_minimap_viewport": true,
-	"auto_complete_cycle": true,
-	"auto_complete_with_fields": true,
-	"auto_indent": true,
-	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-OceanicNext (SL).tmTheme",
-	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Fira Code",
-	"font_options":
-	[
-		"subpixel_antialias"
-	],
-	"font_size": 14,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
-	"material_theme_bold_tab": true,
-	"overlay_scroll_bars": "enabled",
-	"show_encoding": true,
-	"spacegray_tabs_xlarge": true,
-	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"update_check": false,
-	"word_wrap": false,
-	"wrap_width": 120
+    "always_show_minimap_viewport": true,
+    "auto_complete_commit_on_tab": true,
+    "auto_complete_cycle": true,
+    "auto_complete_with_fields": true,
+    "auto_indent": true,
+    "bold_folder_labels": true,
+    "caret_style": "phase",
+    "close_windows_when_empty": false,
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "dictionary": "Packages/Language - Brasil/pt_BR.dic",
+    "ensure_newline_at_eof_on_save": true,
+    "font_face": "Hack",
+    "font_options":
+    [
+    ],
+    "font_size": 14,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+      "CSS",
+      "Vintage"
+    ],
+    "indent_guide_options":
+    [
+      "draw_normal",
+      "draw_active"
+    ],
+    "line_padding_bottom": 3,
+    "line_padding_top": 3,
+    "overlay_scroll_bars": "enabled",
+    "rulers":
+    [
+      80
+    ],
+    "scroll_past_end": true,
+    "show_encoding": true,
+    "show_full_path": true,
+    "tab_size": 2,
+    "theme": "Material-Theme.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "update_check": false,
+    "word_wrap": true,
+    "wrap_width": 120
 }
